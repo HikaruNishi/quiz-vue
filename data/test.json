@@ -1,1 +1,16 @@
-{"firstName":"Nishi", "lastName":"Hikaru"}
+[
+{
+    "id": "0001",
+    "problem": "算数の問題です。1 + 1 = ?",
+    "corrects": ["2"],
+    "incorrects": ["1", "3", "4"],
+    "answer": "指を折り曲げて数えてみましょう。"
+},
+{
+    "id": "0002",
+    "problem": "複数正解があるタイプの問題にも対応しています",
+    "corrects": ["正解1", "正解2"],
+    "incorrects": ["不正解1", "不正解2"],
+    "answer": "this is sample answer, this is sample answer, this is sample answer"
+}
+]
